@@ -1,0 +1,42 @@
+p {
+  color: black; /*#000000  lub rgb(0, 0, 0) */
+  font-size: 20px;
+}
+
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+h2 {
+  color: black; /*#000000  lub rgb(0, 0, 0) */
+  font-size: 25px;
+}
+
+body {
+background: #F2F2F2;
+max-width: 900px;
+margin: 10px auto;
+background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
+padding: 30px;
+font-weight: 700; 
+color: black;
+}
+
+li {
+  color: green; /*#008000 lub rgb(0, 128, 0) */
+  font-size: 25px; 
+}
+
+.colortext {
+   color: red;
+}
+
+.colortext2 {
+	color: navy;
+}
+
+.colortext3 {
+	color: black;
+}
+

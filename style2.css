@@ -1,0 +1,29 @@
+p {
+  color: black; 
+  font-size: 20px;
+}
+
+h1 {
+  color: #AAFF7F;
+  font-size: 70px;
+}
+
+h2 {
+	color: black;
+	font-size: 30px;
+}
+
+body {
+background: #F2F2F2;
+max-width: 900px;
+margin: 10px auto;
+background: #8495DB;
+padding: 30px;
+font-weight: 700; 
+color: black;
+}
+
+li {
+	color: black;
+	font-size: 20px;
+}
